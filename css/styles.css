@@ -1,0 +1,51 @@
+bodY
+    {
+      background-color:black;
+    }
+hr
+ {
+   border-style : none;
+   border-top-style : dotted;
+   border-color: whitesmoke;
+   border-width: 10px;
+   width: 10%;
+ }
+h3
+ {
+   color: #CBCCFF;
+ } 
+ .heading1
+ {
+  color: #FFFAE7;
+  font-size: 100px;
+ }
+ .undername
+ {
+  color: #D9DAFF;
+  font-size:19px;
+ }
+ .heading
+ {
+  color: #CBCCFF;
+  font-size: 35px;
+  text-decoration-line: underline;
+  text-decoration-color: white;
+ }
+ .paragraph
+ {
+  color: #9296F0;
+  font-size: 20px;
+ }
+ .orderedlist
+ {
+  color: yellow;
+ }
+ .rdtohp
+ {
+  color: gold;
+  font-size: 20px;
+ }
+ .linkscolor
+ {
+  color: #FFF3FA;
+ }
